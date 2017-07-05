@@ -8,8 +8,3 @@ int sum(int n)
 	return res;
 }
 
-int main()
-{
-	sum(10);
-	return 0;
-}
